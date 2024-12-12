@@ -15,7 +15,7 @@ export function FeedbackCard() {
 
       {/* Feedback Text */}
       <div className="max-w-lg my-6 text-base lg:text-xl font-sans-serif leading-relaxed">
-    First of all, they taste amazing! Second of all, I love the idea of my baby getting homemade fresh UGGU without me having to spend hours preparing it. I find comfort in knowing that my baby is receiving a balanced and nutritious meal. This is perfect for us busy moms who still want the best for their babies.
+    First of all, the taste is amazing! Second of all, I love the idea of my baby getting homemade fresh UGGU without me having to spend hours preparing it. I find comfort in knowing that my baby is receiving a balanced and nutritious meal. This is perfect for us busy moms who still want the best for their babies.
       </div>
 
       {/* User Information */}

@@ -73,7 +73,7 @@ const FeatureCircle: React.FC = () => {
             {/* Default Content */}
             <div className="absolute flex flex-col items-center justify-center w-full h-full z-10 group-hover:opacity-100 transition-opacity duration-300 ease-in-out">
               <span className="text-4xl">{feature.icon}</span>
-              <p className="mt-4 text-md font-semibold">{feature.text}</p>
+              <p className="mt-4 text-md font-semibold w-56">{feature.text}</p>
             </div>
 
             {/* Hover Image */}

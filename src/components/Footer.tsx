@@ -67,7 +67,7 @@ export function Footer() {
               <h1 className="font-bold mb-4 text-center lg:text-left">
                 Contact Details
               </h1>
-              <p className="text-center lg:text-left">H no 2-4-438, Ramnagar, Hanakonda</p>
+              <p className="text-center lg:text-left">H-no 2-4-438, Ramnagar, Hanamkonda, Telangana, India 506001</p>
               <p className="text-center lg:text-left">+91 9032221070</p>
               <p className="text-center lg:text-left">littlediet.in@gmail.com</p>
             </div>
