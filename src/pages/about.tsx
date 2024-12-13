@@ -1,7 +1,7 @@
 
 
 export function About(){
-    return <div className="">
+    return <div>
         this is About section
     </div>
 }
